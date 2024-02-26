@@ -1,0 +1,5 @@
+ - https://discuss.dgl.ai/t/about-full-understanding-of-message-passing-apis/3231
+ - https://discuss.dgl.ai/t/understanding-dgl-sampler-sampler-cc/3616
+ - https://discuss.dgl.ai/t/how-to-read-the-source-code/107
+ - https://github.com/dmlc/dgl/issues/695
+ - https://docs.dgl.ai/en/0.8.x/developer/ffi.html
